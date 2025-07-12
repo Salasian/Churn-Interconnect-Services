@@ -25,11 +25,18 @@ We started with exploratory data analysis and advanced to machine learning model
 
 ## 📁 Project Files and Documentation
 
-| File                   | Description |
-|------------------------|-------------|
-| **`Final Report.md`**  | 📘 Final summary of the work done, steps carried out, difficulties encountered, and evaluation of the final model (LightGBM). A great place to understand how the project evolved and why decisions were made. |
-| **`Plan de Trabajo.md`** | 📋 Original Spanish description of the project goals, business context, and structure of the source data provided by Interconnect. |
-| **`Work Plan.md`**     | 🛠️ A detailed breakdown of the steps followed in the project: from importing the data and cleaning it to building and evaluating predictive models. Serves as a technical table of contents. |
+This repository contains two main folders for documentation, one in **English** and one in **Spanish**, to make the project accessible to a wider audience.  
+Each folder contains the same three files, offering full context in both languages:
+
+| File Name           | Description |
+|---------------------|-------------|
+| **`Final Report.md`**/ **`Reporte Final.md`** | 📘 A complete summary of the work done, including steps carried out, difficulties encountered, and final evaluation using LightGBM. This helps you understand how the project evolved and why decisions were made. |
+| **`Work Plan.md`** / **`Plan de Trabajo.md`** | 📋 A detailed breakdown of the project's goals and structure of the source data. Spanish version: `Plan de Trabajo.md`, English version: `Work Plan.md`. |
+| **`Analysis.md`**/**`Analisis.md`**  | 🛠️ A step-by-step outline of the technical process, from importing and cleaning data to training and evaluating predictive models. Both versions follow the same structure and content, adapted for language. |
+
+> 📂 **Folders**:
+> - `/English`: All documentation in English  
+> - `/Spanish`: All documentation in Spanish
 
 ---
 
