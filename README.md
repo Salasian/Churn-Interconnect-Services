@@ -59,4 +59,4 @@ If you're interested in customer retention strategies, machine learning for tele
 ## 🔗 Author
 
 Made by **Ian Salas López**  
-[🔗 LinkedIn](https://www.linkedin.com/in/ian-salas-l%C3%B3pez-612b76238/)
+[🔗 LinkedIn](https://www.linkedin.com/in/ian-salas-lopez/)
