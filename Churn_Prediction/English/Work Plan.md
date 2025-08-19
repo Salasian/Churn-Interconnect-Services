@@ -6,22 +6,28 @@
 2. Problem Description
    - Problem Perspective
    - Data Description
-3. Libraries and Preparation
+3. Libraries and Data loading
    - Importing Libraries
-   - Loading and Assigning DataFrames
-4. DataFrame Combination
+   - Loading DataFrames
+4. Merging Dataframes
    - DataFrame Dimension Analysis
    - DataFrame Combination
-5. Data Processing
+5. Data Preprocessing
    - Dataset Overview
-   - Column Formatting
+   - Formatting and Processing Columns
 6. Exploratory Data Analysis (EDA)
    - Correlation Matrix
    - Binary Columns
-   - Enrollments per Month
+   - Monthly Subscriptions
+   - Monthly Churns
+   - Churn Pie Chart
 7. Machine Learning Model Development
-   - Creating Training and Test Features
-   - Logistic Regression Model Training and AUC ROC Curve
-   - LightGBM Model Training and AUC ROC Curve
-8. Results
-9. Conclusion
+   - Creation of Training and Test Features
+   - Training the Logistic Regression Model and AUC ROC Curve
+   - Training the LightGBM Model and AUC ROC Curve
+   - Training the Random Forest Classifier Model and AUC ROC Curve
+   - Models Results
+   - Analysis Results
+   - SHAP Insight
+   - Final Model Report
+8. Conclusion
