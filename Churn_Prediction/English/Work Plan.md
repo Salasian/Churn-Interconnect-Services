@@ -21,6 +21,7 @@
    - Monthly Subscriptions
    - Monthly Churns
    - Churn Pie Chart
+   - Distribution of Customer Duration
 7. Machine Learning Model Development
    - Creation of Training and Test Features
    - Training the Logistic Regression Model and AUC ROC Curve
